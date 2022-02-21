@@ -16,8 +16,8 @@ module.exports = {
       interaction.user.verify({
         i: interaction,
         code: code,
-        verifiedRoleId: "945338550415671297",
-        unverifiedRoleId: "945338614601097316"
+        verifiedRoleId: "onaylanmış rol id",
+        unverifiedRoleId: "onaylanmamış rol id"
       });
     } else {
       interaction.reply({
